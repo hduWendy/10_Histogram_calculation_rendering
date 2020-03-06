@@ -9,7 +9,7 @@ using namespace cv;
 
 int main()
 {
-	//读取本地的一张图片，记录直方图数组并绘制直方图。
+	//读取本地的一张图片，记录直方图数组并绘制直方图!
 	cv::Mat srcMat = imread("C:/Users/lenovo/Desktop/推文/1.jpg");
 	cv::Mat Histogram_Mat = imread("C:/Users/lenovo/Desktop/推文/0.png");
 
